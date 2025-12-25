@@ -1,1 +1,0 @@
-const s="/src/assets/icons/presentation/solovyeva.svg",o="https://kinescope.io/embed/3djcMpXAiTFaK2omib5kwd",e=["/src/assets/img/presentation/solovyeva/1.png","/src/assets/img/presentation/solovyeva/2.png","/src/assets/img/presentation/solovyeva/3.png","/src/assets/img/presentation/solovyeva/4.png"];export{s as S,e as a,o as b};

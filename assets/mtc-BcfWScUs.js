@@ -1,1 +1,0 @@
-const s="https://kinescope.io/embed/iTAUkQuk2hWGoXekTwF6zM",t="/src/assets/icons/presentation/mtc.svg",c=["/src/assets/img/3D/mtc/1.png","/src/assets/img/3D/mtc/2.png","/src/assets/img/3D/mtc/3.png"];export{t as M,c as a,s as b};

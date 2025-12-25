@@ -1,0 +1,1 @@
+const o="/icons/presentation/solovyeva.svg",e="https://kinescope.io/embed/3djcMpXAiTFaK2omib5kwd",s=["/img/presentation/solovyeva/1.png","/img/presentation/solovyeva/2.png","/img/presentation/solovyeva/3.png","/img/presentation/solovyeva/4.png"];export{o as S,s as a,e as b};
