@@ -1,0 +1,1 @@
+const s="/src/assets/icons/events/afisha.svg",a=["/src/assets/img/events/afisha/1.png","/src/assets/img/events/afisha/2.png","/src/assets/img/events/afisha/3.png","/src/assets/img/events/afisha/4.png","/src/assets/img/events/afisha/5.png"];export{s as A,a};
