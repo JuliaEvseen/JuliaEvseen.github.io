@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  </head>
+  <body>
+    <div id="app"></div>
+    
+    <script>
+      // Берём текущий путь
+      const path = window.location.pathname;
+      const search = window.location.search;
+      const hash = window.location.hash;
+      
+      // Если это не корневой путь и не начинается с /index.html
+      if (path !== '/' && !path.includes('index.html')) {
+        // Редирект на index.html с сохранением пути
+        const newPath = '/index.html' + path + search + hash;
+        window.location.replace(newPath);
+      }
+    </script>
+  </body>
+</html>
